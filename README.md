@@ -86,14 +86,14 @@ https://mcp.livinginmovie.com/mcp
 Sign in and click **Allow**. The full walkthrough:
 [Connect Cadabra to Claude](https://www.livinginmovie.com/en/guides/cadabra-mcp?utm_source=github&utm_medium=skills-repo&utm_campaign=skills).
 
-## Made with these skills
+## Made with this method
 
 <p align="center">
   <a href="https://youtu.be/7y06Z1M2-fI">
     <img src="https://frame-flavor-cdn.b-cdn.net/guides/imaginary-friends/20261109-cover.jpg" alt="Imaginary Friends, a 3D animated short made in one chat" width="70%">
   </a>
   <br>
-  <i>Imaginary Friends: a 3D animated short made in one chat with Claude.
+  <i>Imaginary Friends: a 3D animated short made in one chat with Claude, with the method these skills package.
   Every prompt is open in the
   <a href="https://www.livinginmovie.com/en/guides/imaginary-friends?utm_source=github&utm_medium=skills-repo&utm_campaign=skills">free guide</a>.</i>
 </p>
