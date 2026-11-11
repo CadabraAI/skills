@@ -12,6 +12,9 @@
 
 # Cadabra AI Skills
 
+> **Runs on Cadabra AI.** The story and the prompts are free; images and video
+> cost credits, and every price is shown before anything runs.
+
 Skills that teach Claude to direct films like a production team: the story, the
 characters, the look, the acting, the shots and the edit. You write one
 sentence; Claude does the directing.
