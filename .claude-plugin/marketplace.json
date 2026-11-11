@@ -1,0 +1,15 @@
+{
+  "name": "cadabra-ai",
+  "description": "Cadabra AI skills for directing films inside Claude",
+  "owner": {
+    "name": "Cadabra AI",
+    "url": "https://www.livinginmovie.com/en"
+  },
+  "plugins": [
+    {
+      "name": "cadabra",
+      "source": "./",
+      "description": "Animated Shorts, cinematic ads and edits, directed from one sentence. Runs on Cadabra AI."
+    }
+  ]
+}

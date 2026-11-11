@@ -61,11 +61,14 @@ step.
    [Animated Short ZIP](https://frame-flavor-cdn.b-cdn.net/guides/imaginary-friends/20261111062737-cadabra-animated-short.zip)).
 2. Open **Settings**, then **Skills**, and upload the ZIP.
 
-**Claude Code**
+**Claude Code**, as a plugin (the skills and the Cadabra AI connector in one step):
 ```bash
-git clone https://github.com/CadabraAI/skills ~/.claude/skills/cadabra
+claude plugin marketplace add CadabraAI/skills
 ```
-or
+```bash
+claude plugin install cadabra@cadabra-ai
+```
+or the skills alone:
 ```bash
 npx skills add CadabraAI/skills
 ```

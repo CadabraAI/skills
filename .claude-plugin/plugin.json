@@ -1,0 +1,13 @@
+{
+  "name": "cadabra",
+  "description": "Animated Shorts, cinematic ads and edits, directed from one sentence. The story and the prompts are free; images and video run on Cadabra AI, with every price shown first.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Cadabra AI",
+    "url": "https://www.livinginmovie.com/en"
+  },
+  "homepage": "https://github.com/CadabraAI/skills",
+  "repository": "https://github.com/CadabraAI/skills",
+  "license": "MIT",
+  "keywords": ["animation", "video", "seedance", "film", "ai-video", "skills"]
+}
