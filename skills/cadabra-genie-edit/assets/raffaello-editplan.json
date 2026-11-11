@@ -1,0 +1,519 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "masterLufs": -14,
+  "font": "heebo",
+  "clips": [
+    {
+      "src": "YOUR_TAKE_URL",
+      "trimStartSec": 0,
+      "trimEndSec": 26.9,
+      "speed": 1,
+      "grade": "none",
+      "muted": false,
+      "volume": 0.45,
+      "motion": "none",
+      "autoReframe": false,
+      "fit": "cover",
+      "freeze": {
+        "atSec": 22.9,
+        "durationSec": 0.6
+      },
+      "split": null
+    }
+  ],
+  "transition": "none",
+  "transitionSec": 0,
+  "grade": "none",
+  "letterbox": "none",
+  "grain": 0.05,
+  "vignette": 0.15,
+  "hud": [
+    {
+      "kind": "grid",
+      "startSec": 0.0,
+      "durationSec": 3.8,
+      "area": {
+        "x": 0.08,
+        "y": 0.08,
+        "w": 0.84,
+        "h": 0.6
+      },
+      "color": "#FFC861",
+      "opacity": 0.4,
+      "inSec": 0.5,
+      "outSec": 0.3,
+      "glow": 0.2
+    },
+    {
+      "kind": "scan",
+      "startSec": 0.2,
+      "durationSec": 1.6,
+      "dir": "down",
+      "area": {
+        "x": 0.08,
+        "y": 0.08,
+        "w": 0.84,
+        "h": 0.6
+      },
+      "color": "#FFE3A3",
+      "opacity": 0.6,
+      "inSec": 0.2,
+      "outSec": 0.3
+    },
+    {
+      "kind": "type",
+      "startSec": 0.4,
+      "durationSec": 3.3,
+      "x": 0.5,
+      "y": 0.11,
+      "text": "איטליה · 06:12",
+      "textSize": 0.032,
+      "weight": 600,
+      "underline": true,
+      "color": "#FFC861",
+      "labelColor": "#FFFFFF",
+      "inSec": 0.45,
+      "outSec": 0.35,
+      "glow": 0
+    },
+    {
+      "kind": "callout",
+      "startSec": 4.2,
+      "durationSec": 1.6,
+      "shape": "brackets",
+      "size": 0.16,
+      "x": 0.19,
+      "y": 0.58,
+      "label": "השף",
+      "sublabel": "40 שנה מול האש",
+      "labelSide": "right",
+      "labelDist": 0.18,
+      "color": "#FFC861",
+      "labelColor": "#FFFFFF",
+      "textSize": 0.036,
+      "inSec": 0.4,
+      "outSec": 0.3,
+      "glow": 0.3
+    },
+    {
+      "kind": "callout",
+      "startSec": 8.8,
+      "durationSec": 1.7,
+      "shape": "dot",
+      "size": 0.04,
+      "x": 0.47,
+      "y": 0.6,
+      "label": "בצק",
+      "sublabel": "72 שעות התפחה",
+      "labelSide": "above",
+      "color": "#FFC861",
+      "labelColor": "#FFFFFF",
+      "textSize": 0.036,
+      "inSec": 0.35,
+      "outSec": 0.3,
+      "glow": 0.3
+    },
+    {
+      "kind": "ring",
+      "startSec": 10.7,
+      "durationSec": 1.8,
+      "size": 0.3,
+      "x": 0.55,
+      "y": 0.45,
+      "color": "#FF8A3D",
+      "opacity": 0.9,
+      "inSec": 0.4,
+      "outSec": 0.3,
+      "glow": 0.6
+    },
+    {
+      "kind": "brackets",
+      "startSec": 13.4,
+      "durationSec": 1.6,
+      "size": 0.26,
+      "track": [
+        {
+          "t": 0,
+          "x": 0.84,
+          "y": 0.56,
+          "s": 1
+        },
+        {
+          "t": 1.2,
+          "x": 0.85,
+          "y": 0.6,
+          "s": 1.05
+        }
+      ],
+      "color": "#FFC861",
+      "inSec": 0.35,
+      "outSec": 0.3,
+      "glow": 0.3
+    },
+    {
+      "kind": "type",
+      "startSec": 13.6,
+      "durationSec": 3.9,
+      "x": 0.73,
+      "y": 0.31,
+      "text": "*רפאלו*",
+      "textSize": 0.088,
+      "weight": 900,
+      "echo": 2,
+      "stagger": 0.12,
+      "color": "#FFC861",
+      "labelColor": "#FFFFFF",
+      "font": "frankRuhl",
+      "inSec": 0.5,
+      "outSec": 0.4,
+      "glow": 0.45
+    },
+    {
+      "kind": "type",
+      "startSec": 14.3,
+      "durationSec": 3.2,
+      "x": 0.73,
+      "y": 0.425,
+      "text": "השף האגדי",
+      "textSize": 0.034,
+      "weight": 700,
+      "color": "#FFC861",
+      "labelColor": "#FFFFFF",
+      "inSec": 0.45,
+      "outSec": 0.35,
+      "glow": 0
+    },
+    {
+      "kind": "type",
+      "startSec": 22.9,
+      "durationSec": 0.7,
+      "x": 0.5,
+      "y": 0.2,
+      "text": "רגע.",
+      "textSize": 0.09,
+      "weight": 900,
+      "color": "#FFFFFF",
+      "labelColor": "#FFFFFF",
+      "inSec": 0.05,
+      "outSec": 0.1,
+      "glow": 0
+    },
+    {
+      "kind": "callout",
+      "startSec": 22.95,
+      "durationSec": 0.65,
+      "shape": "dot",
+      "size": 0.04,
+      "x": 0.55,
+      "y": 0.62,
+      "label": "אותו תנור",
+      "labelSide": "above",
+      "labelDist": 0.14,
+      "color": "#FFC861",
+      "labelColor": "#FFFFFF",
+      "textSize": 0.04,
+      "inSec": 0.15,
+      "outSec": 0.12,
+      "glow": 0.3
+    },
+    {
+      "kind": "callout",
+      "startSec": 25.7,
+      "durationSec": 1.8,
+      "shape": "ring",
+      "size": 0.09,
+      "track": [
+        {
+          "t": 0,
+          "x": 0.52,
+          "y": 0.69,
+          "s": 1
+        },
+        {
+          "t": 1.0,
+          "x": 0.66,
+          "y": 0.7,
+          "s": 1
+        },
+        {
+          "t": 1.8,
+          "x": 0.77,
+          "y": 0.71,
+          "s": 1
+        }
+      ],
+      "label": "משלוחים",
+      "labelSide": "above",
+      "color": "#FFC861",
+      "labelColor": "#FFFFFF",
+      "textSize": 0.036,
+      "inSec": 0.3,
+      "outSec": 0.3,
+      "glow": 0.35
+    }
+  ],
+  "particles": [
+    {
+      "kind": "dust",
+      "startSec": 4.0,
+      "durationSec": 4.4,
+      "amount": 0.4,
+      "direction": "drift",
+      "size": 0.006,
+      "speed": 0.6,
+      "color": "#FFF4DC",
+      "color2": "#FFE3A3",
+      "opacity": 0.6
+    },
+    {
+      "kind": "embers",
+      "startSec": 10.3,
+      "durationSec": 3.2,
+      "amount": 0.55,
+      "direction": "up",
+      "size": 0.012,
+      "speed": 1.0,
+      "color": "#FF8A3D",
+      "color2": "#FFC861",
+      "opacity": 0.85,
+      "originX": 0.5,
+      "originY": 0.9
+    }
+  ],
+  "graphics": [
+    {
+      "type": "counter",
+      "atSec": 10.4,
+      "durationSec": 2.5,
+      "size": 0.42,
+      "position": "top",
+      "accent": "#FF8A3D",
+      "from": 0,
+      "to": 485,
+      "decimals": 0,
+      "prefix": "",
+      "suffix": "°",
+      "label": "חום התנור",
+      "soundVolume": 0.3
+    }
+  ],
+  "lightLeaks": [
+    {
+      "startSec": 13.4,
+      "durationSec": 1.4,
+      "hue": 32,
+      "strength": 0.6,
+      "angle": 112,
+      "style": "sweep"
+    },
+    {
+      "startSec": 18.2,
+      "durationSec": 1.2,
+      "hue": 28,
+      "strength": 0.4,
+      "angle": 90,
+      "style": "bloom"
+    },
+    {
+      "startSec": 27.3,
+      "durationSec": 1.0,
+      "hue": 36,
+      "strength": 0.45,
+      "angle": 140,
+      "style": "corner"
+    }
+  ],
+  "titles": [
+    {
+      "text": "פיצה רפאלו",
+      "startSec": 23.6,
+      "durationSec": 3.9,
+      "position": "top",
+      "anim": "letterPop",
+      "color": "#FFC861",
+      "size": "l",
+      "weight": 900,
+      "caps": false,
+      "font": "secularOne",
+      "letterSpacing": 0,
+      "align": "center"
+    }
+  ],
+  "sfx": [
+    {
+      "src": "YOUR_VOICE_LINE_1_URL",
+      "atSec": 0.3,
+      "volume": 1.0
+    },
+    {
+      "name": "tick",
+      "atSec": 0.45,
+      "volume": 0.25
+    },
+    {
+      "name": "whooshLong",
+      "atSec": 3.9,
+      "volume": 0.22
+    },
+    {
+      "src": "YOUR_VOICE_LINE_2_URL",
+      "atSec": 4.4,
+      "volume": 1.0
+    },
+    {
+      "name": "swish",
+      "atSec": 5.4,
+      "volume": 0.2
+    },
+    {
+      "name": "click",
+      "atSec": 8.85,
+      "volume": 0.2
+    },
+    {
+      "src": "YOUR_SOUND_1_URL",
+      "atSec": 9.0,
+      "volume": 0.8,
+      "trimStartSec": 0,
+      "durationSec": 1.2
+    },
+    {
+      "src": "YOUR_SOUND_2_URL",
+      "atSec": 10.3,
+      "volume": 0.6,
+      "trimStartSec": 0,
+      "durationSec": 3.3,
+      "fadeOutSec": 0.8
+    },
+    {
+      "name": "riser",
+      "atSec": 11.0,
+      "volume": 0.18,
+      "durationSec": 2.6,
+      "fadeOutSec": 0.4
+    },
+    {
+      "src": "YOUR_VOICE_LINE_3_URL",
+      "atSec": 13.6,
+      "volume": 1.0
+    },
+    {
+      "name": "subdrop",
+      "atSec": 13.6,
+      "volume": 0.3
+    },
+    {
+      "src": "YOUR_SOUND_3_URL",
+      "atSec": 15.9,
+      "volume": 0.8,
+      "trimStartSec": 0,
+      "durationSec": 1.0
+    },
+    {
+      "src": "YOUR_VOICE_LINE_4_URL",
+      "atSec": 18.4,
+      "volume": 1.0
+    },
+    {
+      "name": "glitch",
+      "atSec": 22.9,
+      "volume": 0.3
+    },
+    {
+      "name": "click",
+      "atSec": 22.95,
+      "volume": 0.18
+    },
+    {
+      "src": "YOUR_SOUND_4_URL",
+      "atSec": 23.0,
+      "volume": 0.9,
+      "trimStartSec": 0,
+      "durationSec": 0.8
+    },
+    {
+      "src": "YOUR_VOICE_LINE_5_URL",
+      "atSec": 23.6,
+      "volume": 1.0
+    },
+    {
+      "name": "click",
+      "atSec": 25.75,
+      "volume": 0.18
+    },
+    {
+      "src": "YOUR_VOICE_LINE_6_URL",
+      "atSec": 27.15,
+      "volume": 1.0
+    },
+    {
+      "name": "chime",
+      "atSec": 27.55,
+      "volume": 0.2
+    }
+  ],
+  "musicCues": [
+    {
+      "src": "YOUR_MUSIC_URL",
+      "startSec": 0,
+      "endSec": 22.9,
+      "volume": 0.55,
+      "fadeInSec": 0,
+      "fadeOutSec": 0,
+      "duck": true,
+      "duckAmount": 0.35
+    },
+    {
+      "src": "YOUR_MUSIC_URL",
+      "startSec": 23.6,
+      "endSec": null,
+      "volume": 0.45,
+      "fadeInSec": 0.3,
+      "fadeOutSec": 0.4,
+      "duck": true,
+      "duckAmount": 0.35
+    }
+  ],
+  "captionStyle": "pop",
+  "captionColor": "#FFFFFF",
+  "captionPosition": "bottom",
+  "captionY": 0.76,
+  "captionScale": 0.62,
+  "captions": [
+    {
+      "text": "יש שפים שנולדים באיטליה.",
+      "startMs": 300,
+      "endMs": 3600
+    },
+    {
+      "text": "ויש אחד, שאיטליה נולדה בשבילו.",
+      "startMs": 4400,
+      "endMs": 7800
+    },
+    {
+      "text": "הם קוראים לו... רפאלו.",
+      "startMs": 13600,
+      "endMs": 16600,
+      "color": "#FFC861",
+      "scale": 1.2
+    },
+    {
+      "text": "בפיצה, כמו בחיים, הכל עניין של בצק.",
+      "startMs": 18400,
+      "endMs": 21900
+    },
+    {
+      "text": "רפי. פיצה רפאלו, רחוב הדקל 7.",
+      "startMs": 23600,
+      "endMs": 27100
+    }
+  ],
+  "endCard": {
+    "headline": "פיצה רפאלו",
+    "cta": "רחוב הדקל 7 · משפחתית + שתייה ב-59 ₪, עכשיו גם במשלוחים",
+    "bgColor": "#0E0F13",
+    "textColor": "#FFC861",
+    "durationSec": 2.5
+  }
+}
