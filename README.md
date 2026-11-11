@@ -57,9 +57,11 @@ step.
 ## Install
 
 **Claude (claude.ai or the desktop app)**
-1. Download the skill folder as a ZIP (or use the
-   [Animated Short ZIP](https://frame-flavor-cdn.b-cdn.net/guides/imaginary-friends/20261111062737-cadabra-animated-short.zip)).
-2. Open **Settings**, then **Skills**, and upload the ZIP.
+1. Download one skill:
+   [Animated Short](https://github.com/CadabraAI/skills/releases/latest/download/cadabra-animated-short.zip) ·
+   [Cinematic Ad](https://github.com/CadabraAI/skills/releases/latest/download/cadabra-cinematic-ad.zip) ·
+   [Genie Edit](https://github.com/CadabraAI/skills/releases/latest/download/cadabra-genie-edit.zip)
+2. Open **Settings**, then **Skills**, and upload the ZIP as it is.
 
 **Claude Code**, as a plugin (the skills and the Cadabra AI connector in one step):
 ```bash
